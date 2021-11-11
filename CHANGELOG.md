@@ -11,3 +11,4 @@
 - Patch security vulnerability (2021-2-25 13:45:00)
 - Fix edge case in logic (2021-8-8 14:55:00)
 - Add unit tests (2021-4-9 13:65:00)
+- Clean up temporary files (2021-11-11 14:75:00)
